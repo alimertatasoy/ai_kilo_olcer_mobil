@@ -1,0 +1,25 @@
+# Python
+python/venv/
+python/dist/
+python/__pycache__/
+*.exe
+
+# Flutter
+flutter/build/
+flutter/.dart_tool/
+flutter/.flutter-plugins
+flutter/.flutter-plugins-dependencies
+flutter/.pub-cache/
+flutter/.packages
+flutter/pubspec.lock
+flutter/.metadata
+*.apk
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# MacOS
+.DS_Store

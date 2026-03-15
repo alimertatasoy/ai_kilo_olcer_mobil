@@ -1,0 +1,12 @@
+{
+    "default_square_cm":    20.0,
+    "human_density":         1.01,
+    "depth_ratio":           0.70,
+    "max_depth_ratio":       0.85,
+    "max_depth_cm":          28.0,
+    "side_mask_erosion_pct": 2.0,
+    "volume_scale_factor":   0.71,
+    "green_hsv_lower": [30, 30, 30],
+    "green_hsv_upper": [100, 255, 255]
+}
+
